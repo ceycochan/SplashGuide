@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SplashGuide</string>
+    <string name="link_home">
+  <a href="https://github.com/ceycochan">My GitHub</a>
+  </string>
+    <string name="link_features">
+  <a href="https://www.google.com">Features</a>
+  </string>
+</resources>
